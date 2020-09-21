@@ -1,0 +1,22 @@
+Clone
+
+git clone https://github.com/parul12344/valuetest
+
+git status- to check current status
+
+git add . - to add files
+
+git commit -m "message" -  Add message to file
+
+git push origin master
+
+git pull origin master
+
+create new branch
+git checkout -b newbranch  - newbranch
+push new branch on server
+git push --set  -upstream  origin newbranch
+
+git checkout newbranch - go inside branch
+
+git fetch- to fetch all data from  server
